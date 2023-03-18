@@ -1,0 +1,410 @@
+{
+    "home": {
+        "edition": "9th Edition",
+        "eventInfo": {
+            "date": "June 03 - June 04, 2019",
+            "place": {
+              "name": "Faculty of Mathematics and Computer Science of the University of Bucharest",
+              "link": "https://fmi.unibuc.ro/"
+            }
+        },
+        "oldEditions": [
+          {
+            "name" : "WYRM - 9th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2019/WYRM"
+          },
+          {
+            "name" : "WYRM 2018 - 8th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2018/WYRM/"
+          },
+          {
+            "name" : "WYRM 2017 - 7th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2017/WYRM/"
+          },
+          {
+            "name" : "WYRM 2016 - 6th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2016/WYRM/"
+          },
+          {
+            "name" : "WYRM 2015 - 5th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2015/WYRM/"
+          },
+          {
+            "name" : "WYRM 2014 - 4th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2014/WYRM/"
+          },
+          {
+            "name" : "WYRM 2013 - 3th edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2013/WYRM/"
+          },
+          {
+            "name" : "WYRM 2012 - 2nd edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2012/WYRM/"
+          },
+          {
+            "name" : "WYRM 2011 - 1st edition",
+            "link": "https://math.univ-ovidius.ro/Workshop/2011/WYRM/"
+          }
+        ],
+        "posterImage": {
+          "src": "https://math.univ-ovidius.ro/Workshop/2019/WYRM/images/Poster.jpg",
+          "previewTitle" : "WYRM - 2019"
+        }
+    },
+    "general-info": {
+        "page": {
+            "info": "The <a target='_blank' href=\"https://fmi.unibuc.ro/\">Faculty of Mathematics and Computer Science</a> of the University of Bucharest and <a target='_blank' href=\"https://icub.unibuc.ro/\">ICUB</a> (The Research Institute of the University of Bucharest), in cooperation with the <a target='_blank' href=\"http://www.imar.ro/\">Institute of Mathematics Simion Stoilow of the Romanian Academy (IMAR)</a> and the <a target='_blank' href=\"https://math.univ-ovidius.ro/\">Faculty of Mathematics and Computer Science</a> of the Ovidius University of Constanta, organize the ninth edition of",
+            "title": "Workshop for Young Researchers in Mathematics",
+            "subtitle": {
+              "text": "The workshop will take place at the Faculty of Mathematics and Computer Science (14 Academiei Street, sector 1, 010014 Bucharest, Romania), from",
+              "date": "Monday, June 03, to Tuesday, June 04, 2019."
+            }
+          },
+          "sections": {
+            "text": "There will be two sections:",
+            "list": ["Algebra, Geometry, Number Theory, Topology", "PDE's, Analysis, Applied Mathematics"]
+          },
+          "preliminary_registration": {
+            "title": "Preliminary registration",
+            "subtitle": "If you would like to attend, please send an e-mail to the corresponding organizers, containing the following information:",
+            "list": ["Name", "Affiliation", "Section of the Workshop (Analysis / PDE’s / Applied Mathematics / Algebra / Geometry / Number Theory / Topology)", "Intention to give a talk"]
+          },
+          "emails": {
+            "title": "Emails:",
+            "list": [
+              {
+                "email": "nicusorcostea@yahoo.com",
+                "text": "[Cc: cristian.cazacu@fmi.unibuc.ro; iulian.cimpean@imar.ro] (Analysis, PDE’s & Applied Mathematics)"
+              },
+              {
+                "email": "cranghel@imar.ro",
+                "text": "[Cc: dumitru.stamate@fmi.unibuc.ro; anca.macinic@imar.ro] (Algebra, Geometry, Number Theory, Topology)"
+              }
+            ]
+          },
+          "deadlines": {
+            "title": "Deadlines:",
+            "list": [
+              {
+                "date": "May 15th, 2019",
+                "text": "if you would like to attend"
+              },
+              {
+                "date": "May 1st, 2019",
+                "text": "if you would like to give a talk."
+              }
+            ]
+          }
+    },
+    "organizers-committee": [
+        {
+            "key": "contact-person",
+            "name": "Cristina ANGHEL",
+            "person_data": {
+              "school": "Institute of Mathematics Simion Stoilow of the Romanian Academy, Romania",
+              "location": "P.O. Box 1-764, RO-70700, Bucharest",
+              "email": "cranghel@imar.ro"
+            }
+          },
+          {
+            "key": "contact-person",
+            "name": "Cristina ANGHEL",
+            "person_data": {
+              "school": "University of Bucharest/ICUB, Romania",
+              "location": "14 Academiei, Sector 1, Bucharest 010014, Romania",
+              "email": " cristian.cazacu@fmi.unibuc.ro"
+            }
+          },
+          {
+            "name": "Iulian CÎMPEAN",
+            "person_data": {
+              "school": "Institute of Mathematics Simion Stoilow of the Romanian Academy, Romania",
+              "location": "P.O. Box 1-764, RO-70700, Bucharest",
+              "email": " iulian.cimpean@imar.ro"
+            }
+          },
+          {
+            "name": "Constantin COSTARA",
+            "person_data": {
+              "school": "Ovidius University of Constanta, Romania",
+              "location": "124 Mamaia Bd., 900527, Constanta",
+              "email": "cdcostara@univ-ovidius.ro"
+            }
+          },
+          {
+            "key": "contact-person",
+            "name": "Nicuşor COSTEA",
+            "person_data": {
+              "school": "University Politehnica of Bucharest, Romania",
+              "location": "Splaiul Independentei 313, Bucharest 060042",
+              "email": "nicusorcostea@yahoo.com"
+            }
+          },
+          {
+            "key": "contact-person",
+            "name": "Anca-Daniela MĂCINIC",
+            "person_data": {
+              "school": "Institute of Mathematics Simion Stoilow of the Romanian Academy, Romania",
+              "location": "P.O. Box 1-764, RO-70700, Bucharest",
+              "email": "anca.macinic@imar.ro"
+            }
+          },
+          {
+            "key": "contact-person",
+            "name": "Dumitru STAMATE",
+            "person_data": {
+              "school": "University of Bucharest, Romania",
+              "location": "14 Academiei, Sector 1, Bucharest 010014, Romania",
+              "email": "dumitru.stamate@fmi.unibuc.ro"
+            }
+          }
+    ],
+    "speakers": [
+        {
+            "title": "Algebra, Geometry, Number Theory, Topology:",
+            "items": [
+              {
+                "name": "Noura AMRI",
+                "affiliation": "University Sidi Mohamed Ben Abdallah, Morocco"
+              },
+              {
+                "name": "Claudia ANDREI",
+                "affiliation": "University of Bucharest, Romania"
+              },
+              {
+                "name": "Daniel BANARU",
+                "affiliation": "University of Bucharest, Romania"
+              },
+              {
+                "name": "Filip CHINDEA",
+                "affiliation": "IMAR, Romania"
+              },
+              {
+                "name": "Mircea CIMPOEAS",
+                "affiliation": "IMAR, Romania"
+              },
+              {
+                "name": "Rodica DINU",
+                "affiliation": "University of Bucharest, Romania"
+              },
+              {
+                "name": "Emil HOROBET",
+                "affiliation": "University Sapientia of Targu Mures, Romania"
+              },
+              {
+                "name": "Abel LORINCZI",
+                "affiliation": "Babes-Bolyai University, Cluj-Napoca, Romania"
+              },
+              {
+                "name": "Vlad MARGARINT",
+                "affiliation": "University of Oxford, England"
+              },
+              {
+                "name": "Alessandro ONETO",
+                "affiliation": "University of Magdeburg, Germany"
+              },
+              {
+                "name": "Alexandra OTIMAN",
+                "affiliation": "Roma Tre University, Italy & IMAR, Romania"
+              },
+              {
+                "name": "Martin PALMER ANGHEL",
+                "affiliation": "University of Bonn, Germany & IMAR, Romania"
+              },
+              {
+                "name": "Iulia PLESCA",
+                "affiliation": "University of Iasi, Romania"
+              },
+              {
+                "name": "Miruna-Stefana SOREA",
+                "affiliation": "Max Planck Institut, Leipzig, Germany"
+              },
+              {
+                "name": "Miron STANCIU",
+                "affiliation": "IMAR, Romania"
+              },
+              {
+                "name": "Francesco STRAZZANTI",
+                "affiliation": "University of Catania, Italy"
+              },
+              {
+                "name": "Lorenzo VENTURELLO",
+                "affiliation": "University of Osnabrueck, Germany"
+              }
+            ]
+          },
+          {
+            "title": "Algebra, Geometry, Number Theory, Topology:",
+            "items": [
+                {
+                  "name":"Claudia BUCUR",
+                  "affiliation":"Istituto Nazionale di Alta Matematica Francesco Severi, Italy"
+                },
+                {
+                  "name":"Cristian CAZACU",
+                  "affiliation":"University of Bucharest/ICUB, Romania"
+                },
+                {
+                  "name":"Xuban DIEZ",
+                  "affiliation":"University of the Basque Country, Spain"
+                },
+                {
+                  "name":"Ujué ETAYO",
+                  "affiliation":"Institute of Analysis and Number Theory, TUGraz, Austria"
+                },
+                {
+                  "name":"Csaba FARKAS",
+                  "affiliation":"University Sapientia of Targu Mures, Romania"
+                },
+                {
+                  "name":"Aingeru FERNANDEZ",
+                  "affiliation":"University of the Basque Country, Spain"
+                },
+                {
+                  "name":"Andrei GRECU",
+                  "affiliation":"University of Craiova, Romania"
+                },
+                {
+                  "name":"George IONITA",
+                  "affiliation":"University Politehnica of Bucharest, Romania"
+                },
+                {
+                  "name":"Oana LUPASCU-STAMATE",
+                  "affiliation":"Institute of Statistics and Applied Mathematics & IMAR, Romania"
+                },
+                {
+                  "name":"Aurora MARICA",
+                  "affiliation":"University Politehnica of Bucharest & IMAR & ICUB, Romania"
+                },
+                {
+                  "name":"Elena-Alexandra MELNIG",
+                  "affiliation":"University of Iasi, Romania"
+                },
+                {
+                  "name":"Ionut MUNTEANU",
+                  "affiliation":"University of Iasi & Institute of Mathematics O. Mayer of the Romanian Academy, Romania"
+                },
+                {
+                  "name":"Razvan-Cornel SFETCU",
+                  "affiliation":"University of Bucharest, Romania"
+                },
+                {
+                  "name":"Andreea-Paula VOINEA-MARINESCU",
+                  "affiliation":"University of Bucharest/ICUB, Romania"
+                }
+              ]
+          }
+    ],
+    "participants": {
+        "Noura AMRI": "University Sidi Mohamed Ben Abdallah, Morocco",
+        "Claudia ANDREI": "University of Bucharest, Romania",
+        "Cipriana ANGHEL": "University of Bucharest, Romania",
+        "Cristian ANGHEL": "IMAR, Romania",
+        "Cristina ANGHEL": "University of Oxford, England & IMAR, Romania",
+        "Loredana BALILESCU": "University of Pitesti, Romania",
+        "Daniel BANARU": "University of Bucharest, Romania",
+        "Mihai BUCATARU": "University of Bucharest/ICUB, Romania",
+        "Claudia BUCUR": "Istituto Nazionale di Alta Matematica Francesco Severi, Italy",
+        "Cristian CAZACU": "University of Bucharest/ICUB, Romania",
+        "Filip CHINDEA": "IMAR, Romania",
+        "Mircea CIMPOEAS": "IMAR, Romania",
+        "Iulian CIMPEAN": "IMAR, Romania",
+        "Cristian CIULICA": "University of Bucharest, Romania",
+        "Constantin COSTARA": "Ovidius University of Constanta, Romania",
+        "Nicusor COSTEA": "University Politehnica of Bucharest & IMAR, Romania",
+        "Xuban DIEZ": "University of the Basque Country, Spain",
+        "Rodica DINU": "University of Bucharest, Romania",
+        "Ujué ETAYO": "Institute of Analysis and Number Theory, TUGraz, Austria",
+        "Csaba FARKAS": "University Sapientia of Targu Mures, Romania",
+        "Maria FĂRCĂŞEANU": "University Politehnica of Bucharest & IMAR, Romania",
+        "Aingeru FERNANDEZ": "University of the Basque Country, Spain",
+        "Radu GABA": "IMAR, Romania",
+        "Andreea GRECU": "University of Bucharest & IMAR, Romania",
+        "Andrei GRECU": "University of Craiova, Romania",
+        "Emil HOROBET": "University Sapientia of Targu Mures, Romania",
+        "Mihai EPURE": "IMAR, Romania",
+        "Liviu IGNAT": "IMAR, Romania",
+        "Tatiana Ionica IGNAT": "IMAR, Romania",
+        "George IONITA": "University Politehnica of Bucharest, Romania",
+        "Abel LORINCZI": "Babes-Bolyai University, Cluj-Napoca, Romania",
+        "Oana LUPASCU-STAMATE": "Institute of Statistics and Applied Mathematics & IMAR, Romania",
+        "Vlad MARGARINT": "University of Oxford, England",
+        "Aurora MARICA": "University Politehnica of Bucharest & IMAR & ICUB, Romania",
+        "Anca-Daniela MĂCINIC": "IMAR, Romania",
+        "Elena-Alexandra MELNIG": "University of Iasi, Romania",
+        "Mihai MIHAILESCU": "University of Craiova & IMAR, Romania",
+        "Ionut MUNTEANU": "University of Iasi & Institute of Mathematics O. Mayer of the Romanian Academy, Romania",
+        "Anda OLTEANU": "Naval Academy Mircea cel Batran, Constanta, Romania",
+        "Alessandro ONETO": "University of Magdeburg, Germany",
+        "Alexandra OTIMAN": "Roma Tre University, Italy & IMAR, Romania",
+        "Martin PALMER ANGHEL": "University of Bonn, Germany & IMAR, Romania",
+        "Mihai Cosmin PAVEL": "University of Bucharest/ICUB, Romania",
+        "Iulia PLESCA": "University of Iasi, Romania",
+        "Teodor RUGINA": "University of Bucharest, Romania",
+        "Marian RUSU": "University of Bucharest, Romania",
+        "Razvan-Cornel SFETCU": "University of Bucharest, Romania",
+        "Miruna-Stefana SOREA": "Max Planck Institut, Leipzig, Germany",
+        "Dumitru STAMATE": "University of Bucharest, Romania",
+        "Miron STANCIU": "IMAR, Romania",
+        "Denisa STANCU-DUMITRU": "University Politehnica of Bucharest & IMAR, Romania",
+        "Francesco STRAZZANTI": "University of Catania, Italy",
+        "Lorenzo VENTURELLO": "University of Osnabrueck, Germany",
+        "Andreea-Paula VOINEA-MARINESCU": "University of Bucharest/ICUB, Romania"
+    },
+    "program": [
+        {
+            "title": "Analysis, PDE's & Applied Mathematics:",
+            "items": [
+              {
+                "name": "Program",
+                "link": "https://math.univ-ovidius.ro/Workshop/2019/WYRM/Doc/Program-Analysis.pdf?v=190527",
+                "date": "May 27, 2019"
+              },
+              {
+                "name": "Abstracts",
+                "link": "https://math.univ-ovidius.ro/Workshop/2019/WYRM/Doc/Abstracts-Analysis.pdf?v=190520",
+                "date": "May 20, 2019"
+              }
+            ]
+          },
+          {
+            "title": "Algebra, Geometry, Number Theory & Topology",
+            "items": [
+              {
+                "name": "Program",
+                "link": "https://math.univ-ovidius.ro/Workshop/2019/WYRM/Doc/Program-Algebra.pdf?v=190520",
+                "date": "May 20, 2019"
+              },
+              {
+                "name": "Abstracts",
+                "link": "https://math.univ-ovidius.ro/Workshop/2019/WYRM/Doc/Abstracts-Algebra.pdf?v=190516",
+                "date": "May 16, 2019"
+              }
+            ]
+          }
+    ],
+    "accomodation": {
+        "description": {
+            "info": "There are several hotels in the vicinity of the Faculty; check any of them on <a href=\"https://www.booking.com/\" target=\"_blank\">booking.com</a> or <a href=\"https://www.airbnb.com/\" target=\"_blank\">airbnb.com</a> for prices/offers/reservations.",
+            "info2": "Alternatively, a certain number of rooms will be available at The Academic Guest House of the University of Bucharest:"
+          },
+          "guest_house": {
+            "title": "Casa de Oaspeti Academica of University of Bucharest",
+            "description": "In order to stay at The Academic Guest House, you need to book a room through the organizers. For this purpose, please send an email to Cristian Cazacu (email: cristian.cazacu@fmi.unibuc.ro) (and cc: the contact person of the section you are attending) by the 1st of May 2019, specifying the date of your arrival/departure and if you want to book a single/double room.",
+            "items": [
+              {
+                "name": "Address",
+                "description": "36-46 Blvd. M. Kogalniceanu, Bucharest."
+              },
+              {
+                "name": "Web",
+                "description": "http://www.unibuc.ro/despre-ub/recreere-si-timp-liber/hotel-academica/",
+                "link": "http://www.unibuc.ro/despre-ub/recreere-si-timp-liber/hotel-academica/"
+              }
+            ]
+          }
+    },
+    "photos": [
+        "https://math.univ-ovidius.ro/Workshop/2019/WYRM/PhotoGallery/20190604_101818.jpg"
+    ]
+}
