@@ -1,49 +1,4 @@
 {
-    "general-info": {
-        "page": {
-            "info": "The <a target='_blank' href=\"https://fmi.unibuc.ro/\">Faculty of Mathematics and Computer Science</a> of the University of Bucharest and <a target='_blank' href=\"https://icub.unibuc.ro/\">ICUB</a> (The Research Institute of the University of Bucharest), in cooperation with the <a target='_blank' href=\"http://www.imar.ro/\">Institute of Mathematics Simion Stoilow of the Romanian Academy (IMAR)</a> and the <a target='_blank' href=\"https://math.univ-ovidius.ro/\">Faculty of Mathematics and Computer Science</a> of the Ovidius University of Constanta, organize the ninth edition of",
-            "title": "Workshop for Young Researchers in Mathematics",
-            "subtitle": {
-              "text": "The workshop will take place at the Faculty of Mathematics and Computer Science (14 Academiei Street, sector 1, 010014 Bucharest, Romania), from",
-              "date": "Monday, June 03, to Tuesday, June 04, 2019."
-            }
-          },
-          "sections": {
-            "text": "There will be two sections:",
-            "list": ["Algebra, Geometry, Number Theory, Topology", "PDE's, Analysis, Applied Mathematics"]
-          },
-          "preliminary_registration": {
-            "title": "Preliminary registration",
-            "subtitle": "If you would like to attend, please send an e-mail to the corresponding organizers, containing the following information:",
-            "list": ["Name", "Affiliation", "Section of the Workshop (Analysis / PDE’s / Applied Mathematics / Algebra / Geometry / Number Theory / Topology)", "Intention to give a talk"]
-          },
-          "emails": {
-            "title": "Emails:",
-            "list": [
-              {
-                "email": "nicusorcostea@yahoo.com",
-                "text": "[Cc: cristian.cazacu@fmi.unibuc.ro; iulian.cimpean@imar.ro] (Analysis, PDE’s & Applied Mathematics)"
-              },
-              {
-                "email": "cranghel@imar.ro",
-                "text": "[Cc: dumitru.stamate@fmi.unibuc.ro; anca.macinic@imar.ro] (Algebra, Geometry, Number Theory, Topology)"
-              }
-            ]
-          },
-          "deadlines": {
-            "title": "Deadlines:",
-            "list": [
-              {
-                "date": "May 15th, 2019",
-                "text": "if you would like to attend"
-              },
-              {
-                "date": "May 1st, 2019",
-                "text": "if you would like to give a talk."
-              }
-            ]
-          }
-    },
     "organizers-committee": [
         {
             "key": "contact-person",
