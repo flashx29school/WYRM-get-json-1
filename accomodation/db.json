@@ -1,0 +1,21 @@
+{
+  "description": {
+    "info": "There are several hotels in the vicinity of the Faculty; check any of them on <a href=\"https://www.booking.com/\" target=\"_blank\">booking.com</a> or <a href=\"https://www.airbnb.com/\" target=\"_blank\">airbnb.com</a> for prices/offers/reservations.",
+    "info2": "Alternatively, a certain number of rooms will be available at The Academic Guest House of the University of Bucharest:"
+  },
+  "guest_house": {
+    "title": "Casa de Oaspeti Academica of University of Bucharest",
+    "description": "In order to stay at The Academic Guest House, you need to book a room through the organizers. For this purpose, please send an email to Cristian Cazacu (email: cristian.cazacu@fmi.unibuc.ro) (and cc: the contact person of the section you are attending) by the 1st of May 2019, specifying the date of your arrival/departure and if you want to book a single/double room.",
+    "items": [
+      {
+        "name": "Address",
+        "description": "36-46 Blvd. M. Kogalniceanu, Bucharest."
+      },
+      {
+        "name": "Web",
+        "description": "http://www.unibuc.ro/despre-ub/recreere-si-timp-liber/hotel-academica/",
+        "link": "http://www.unibuc.ro/despre-ub/recreere-si-timp-liber/hotel-academica/"
+      }
+    ]
+  }
+}
