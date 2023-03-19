@@ -96,6 +96,69 @@
       ]
     }
   },
+  "organizers": [
+    {
+      "key": "contact-person",
+      "name": "Cristina ANGHEL",
+      "person_data": {
+        "school": "Institute of Mathematics Simion Stoilow of the Romanian Academy, Romania",
+        "location": "P.O. Box 1-764, RO-70700, Bucharest",
+        "email": "cranghel@imar.ro"
+      }
+    },
+    {
+      "key": "contact-person",
+      "name": "Cristina ANGHEL",
+      "person_data": {
+        "school": "University of Bucharest/ICUB, Romania",
+        "location": "14 Academiei, Sector 1, Bucharest 010014, Romania",
+        "email": " cristian.cazacu@fmi.unibuc.ro"
+      }
+    },
+    {
+      "name": "Iulian CÎMPEAN",
+      "person_data": {
+        "school": "Institute of Mathematics Simion Stoilow of the Romanian Academy, Romania",
+        "location": "P.O. Box 1-764, RO-70700, Bucharest",
+        "email": " iulian.cimpean@imar.ro"
+      }
+    },
+    {
+      "name": "Constantin COSTARA",
+      "person_data": {
+        "school": "Ovidius University of Constanta, Romania",
+        "location": "124 Mamaia Bd., 900527, Constanta",
+        "email": "cdcostara@univ-ovidius.ro"
+      }
+    },
+    {
+      "key": "contact-person",
+      "name": "Nicuşor COSTEA",
+      "person_data": {
+        "school": "University Politehnica of Bucharest, Romania",
+        "location": "Splaiul Independentei 313, Bucharest 060042",
+        "email": "nicusorcostea@yahoo.com"
+      }
+    },
+    {
+      "key": "contact-person",
+      "name": "Anca-Daniela MĂCINIC",
+      "person_data": {
+        "school": "Institute of Mathematics Simion Stoilow of the Romanian Academy, Romania",
+        "location": "P.O. Box 1-764, RO-70700, Bucharest",
+        "email": "anca.macinic@imar.ro"
+      }
+    },
+    {
+      "key": "contact-person",
+      "name": "Dumitru STAMATE",
+      "person_data": {
+        "school": "University of Bucharest, Romania",
+        "location": "14 Academiei, Sector 1, Bucharest 010014, Romania",
+        "email": "dumitru.stamate@fmi.unibuc.ro"
+      }
+    }
+  ],
   "speakers": [
     {
       "title": "Algebra, Geometry, Number Theory, Topology:",
